@@ -1,6 +1,6 @@
 # FinHack-3
 LTFS Data Science FinHack 3 
-<img src="https://github.com/JM-Rishav/FinHack-3/blob/main/Final%20data/PS_1.png">
+<img src="https://github.com/ParishaKB/Hackathons/blob/main/LTFS/thumbnail.png">
 
 <br> In this finhack, you will develop a model for the business challenge "Upsell Prediction"</br>
 <h2> LTFS Top-up loan Up-sell prediction </h2>
