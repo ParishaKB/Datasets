@@ -10,7 +10,7 @@ LTFS provides it's loan services to its customers and is interested in selling m
 If they correctly identify the most suitable time to offer a top-up, this will ultimately lead to more disbursals and can also help them beat competing offerings from other institutions.
 <br></br>
 
-<img src="https://github.com/JM-Rishav/FinHack-3/blob/main/Final%20data/PS_1.png">
+<img src="https://github.com/ParishaKB/Hackathons/blob/main/LTFS/info.png">
 
 <br> </br>
 
