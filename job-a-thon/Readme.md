@@ -16,6 +16,8 @@
 | :---       |          ---: |
 | 0.6631 |  0.6652 |
 
+Among top 5% of all registered participants 
+
 
 <br>
 
