@@ -1,4 +1,4 @@
-#Job-A-Thon
+# Job-A-Thon
 
 <img src="https://github.com/ParishaKB/Hackathons/blob/main/job-a-thon/cover-53-thumbnail-1200x1200.png">
 
